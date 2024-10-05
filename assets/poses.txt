@@ -1,0 +1,48 @@
+x5
+
+1 stone: 0, 0, 28, 28 
+2 stone: 28, 0, 21, 15 
+3 stone: 49, 0, 12, 12
+4 stone: 61, 0, 29, 23
+5 stone: 90, 0, 29, 13
+at-te: 0, 28, 205, 104
+
+//cracks
+    1 crack: 119, 0, 18, 23
+    2 crack: 137, 0, 32, 28
+    3 crack: 169, 0, 17, 17
+    4 crack: 186, 0, 34, 23
+    5 crack: 220, 0, 23, 35
+    6 crack: 205, 35, 32, 29
+    7 crack: 205, 64, 27, 9
+    8 crack: 205, 73, 39, 12
+    9 crack: 205, 85, 27, 9
+
+table: 121, 133, 28, 28
+box: 151, 151, 10, 10
+
+//cases
+    yellow closed: 150, 132, 22, 17
+    yellow opened: 172, 132, 22, 17
+    red closed: 162, 151, 22, 17
+    red opened: 184, 151, 22, 17
+
+inside bg: 157, 170, 82, 82
+2nd room: 239, 179, 30, 46
+house: 205, 94, 70, 47
+
+//road
+    horizontal: 207, 157, 72, 12
+    vertical: 270, 180, 12, 72
+    down-rihgt: 207, 143, 12, 12
+    down-left: 220, 143, 12, 12
+    up-right: 232, 143, 12, 12
+    up-left: 245, 143, 12, 12
+
+E key: 103, 147, 11, 11
+
+x3
+hearth: 244, 221, 7, 6
+
+animation hearth:
+    
